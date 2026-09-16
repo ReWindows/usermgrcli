@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "usermgrcli.dll",
+  "latest": "1311849132-801A8E60551F232886722A35E099757D-1",
+  "builds": [
+    {
+      "key": "1311849132-801A8E60551F232886722A35E099757D-1",
+      "timestamp": "1311849132",
+      "pdb_guid": "801A8E60551F232886722A35E099757D",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1311849132-801A8E60551F232886722A35E099757D-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
